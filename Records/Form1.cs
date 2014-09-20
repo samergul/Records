@@ -20,7 +20,8 @@ namespace Records
         private void button1_Click(object sender, EventArgs e)
         {
             //MessageBox.Show("Hello");
-            MessageBox.Show("Hello");
+            //MessageBox.Show("Hello");
+            label1.Text = "Hello";
         }
     }
 }
